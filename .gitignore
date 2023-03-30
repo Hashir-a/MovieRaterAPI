@@ -1,0 +1,4 @@
+venv/
+api/__pycache__/
+movierater/__pycache__/
+api/migrations/__pycache__/
